@@ -62,3 +62,6 @@ a {
 }
 .weather-temperature .active:hover {
 }
+small {
+  text-align: center;
+}
